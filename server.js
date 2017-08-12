@@ -9,12 +9,12 @@ var content = {
     title:'Article one | Siddharth',
     heading: 'Article one',
     date:'Aug 11, 2017',
-    content: ' '<p>This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This               is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.
-                </p> 
+    content: `<p>This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This               is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.
+               </p> 
                 <p>This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.
                 </p>
-                <p>This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.
-                </p>
+               <p>This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.This is the cotent space for my first article.
+               </p>
     
 };
 
